@@ -3,7 +3,7 @@
 Note: I'll be keeping the documentation and progress of my work on this page.
 
 ###### Firstly what do I plan to achieve with this project?
-I plan on coding a script that creates a connection once executed which provides the client with a cmd shell on the victim's machine (currently only for Windows).
+I plan on coding a script that creates a connection once executed, which provides the client with an cmd shell on a windows machine.
 
 ## Useful networking sources:
 
@@ -14,3 +14,8 @@ I plan on coding a script that creates a connection once executed which provides
 
 
 [Wake on LAN](https://en.wikipedia.org/wiki/Wake-on-LAN) - Cool feature to add
+
+## Interesting libraries to look at
+mRemoteNG
+websocket-sharp - Currently inspecting 
+BeetleX
