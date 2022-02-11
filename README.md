@@ -1,6 +1,9 @@
 # Backdoor script
 
 Note: I'll be keeping the documentation and progress of my work on this page.
+-_-_-_- Update -_-_-_-
+
+After researching the topic of backdoor creation I decided to just make it a reverse shell script due to being short on time for development. Apologies.
 
 ###### Firstly what do I plan to achieve with this project?
 I plan on coding a script that creates a connection once executed, which provides the client with an cmd shell on a windows machine.
@@ -19,3 +22,4 @@ I plan on coding a script that creates a connection once executed, which provide
 mRemoteNG
 websocket-sharp - Currently inspecting 
 BeetleX
+System.Net.Sockets - Creates a TCP connection via the TcpClient class
